@@ -12,7 +12,7 @@ this project will help you deleting duplicates and creating symlinks to one sing
 ## Getting started
 If you don't have python installed, install it first:  
 - **Windows / macOS**: Download the installer from [python.org/downloads](https://www.python.org/downloads/)
-- - Windows: check **"Add python.exe to PATH"** during setup  
+    - Windows: check **"Add python.exe to PATH"** during setup  
 - **Linux**:
     - Debian/Ubuntu:
         ```shell
@@ -30,6 +30,8 @@ If you don't have python installed, install it first:
         ```shell
         brew install python
         ```
+
+Refresh (reopen) your terminal to make the new commands available.  
 Verify your python installation, the project needs python **3.13 or newer**:  
 run
 
