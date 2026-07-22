@@ -10,7 +10,27 @@ If, like me, you're tired of checking your pictures one by one and deleting dupl
 this project will help you deleting duplicates and creating symlinks to one single file, reducing wasted space in your backup drive.  
 
 ## Getting started
-Verify your python installation, the projects needs python **3.13 or newer**:
+If you don't have python installed, install it first:  
+- **Windows / macOS**: Download the installer from [python.org/downloads](https://www.python.org/downloads/)
+- - Windows: check **"Add python.exe to PATH"** during setup  
+- **Linux**:
+    - Debian/Ubuntu:
+        ```shell
+        sudo apt update && sudo apt install python3 python3-venv
+        ```  
+    - Fedora:
+        ```shell
+        sudo dnf install python3
+        ```
+    - Arch:
+        ```shell
+        sudo pacman -S python
+        ```
+    - Homebrew:
+        ```shell
+        brew install python
+        ```
+Verify your python installation, the project needs python **3.13 or newer**:  
 run
 
 ```shell
