@@ -9,10 +9,13 @@ If, like me, you're tired of checking your pictures one by one and deleting dupl
 **waste your time no further**,  
 this project will help you deleting duplicates and creating symlinks to one single file, reducing wasted space in your backup drive.  
 
+---
+
 ## Getting started
 If you don't have python installed, install it first:  
 - **Windows / macOS**: Download the installer from [python.org/downloads](https://www.python.org/downloads/)
     - Windows: check **"Add python.exe to PATH"** during setup  
+
 - **Linux**:
     - Debian/Ubuntu:
         ```shell
@@ -39,4 +42,4 @@ python --version
 The output should show something like:
 > Python 3.13  
 
-
+---
