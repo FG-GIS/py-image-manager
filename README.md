@@ -31,11 +31,12 @@ If you don't have python installed, install it first:
         brew install python
         ```
 
-Refresh (reopen) your terminal to make the new commands available.  
 Verify your python installation, the project needs python **3.13 or newer**:  
-run
-
 ```shell
 python --version
 ```
+
+The output should show something like:
+> Python 3.13  
+
 
