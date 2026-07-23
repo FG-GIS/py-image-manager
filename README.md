@@ -43,3 +43,18 @@ The output should show something like:
 > Python 3.13  
 
 ---
+
+## Installation
+
+If you have git installed start by cloning the project  
+naviagate to the folder you want to use in a shell then:
+```shell
+git clone https://github.com/FG-GIS/py-image-manager.git
+```
+
+If you don't have git click on the green code button above,  
+press download zip, then extract the content to your designated folder.
+
+---
+
+## Usage step
