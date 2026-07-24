@@ -52,7 +52,7 @@ naviagate to the folder you want to use in a shell then:
 git clone https://github.com/FG-GIS/py-image-manager.git
 ```
 
-If you don't have git click on the green code button above,  
+If you **don't** have git, click on the green code button above,  
 press download zip, then extract the content to your designated folder.
 
 ---
