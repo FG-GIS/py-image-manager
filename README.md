@@ -55,6 +55,17 @@ git clone https://github.com/FG-GIS/py-image-manager.git
 If you **don't** have git, click on the green code button above,  
 press download zip, then extract the content to your designated folder.
 
+Create a virtual environment to contain the requested dependencies:  
+
+- python
+    ```shell
+    python -m venv venv
+    ```
+- uv
+    ```shell
+    uv sync
+    ```
+
 ---
 
 ## Usage step
