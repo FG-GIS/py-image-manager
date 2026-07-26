@@ -60,7 +60,13 @@ Create a virtual environment to contain the requested dependencies:
 - python
     ```shell
     python -m venv venv
+
     ```
+    activate the virtual environment:
+    ```shell
+
+    ```
+
 - uv
     ```shell
     uv sync
