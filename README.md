@@ -70,14 +70,21 @@ Create a virtual environment to contain the requested dependencies:
         ```
     - windows:
         ```shell
-        venv\Scripts\activate #command prompt
-        venv\Scripts\Activate.ps1 #powershell
+        venv\Scripts\activate       #command prompt
+        venv\Scripts\Activate.ps1   #powershell
         ```
+
+    install the required dependencies:
+    ```shell
+    pip install -e .
+    ```
 
 - uv
     ```shell
-    uv sync
+    uv pip install -e .
     ```
+
+> The dependencies live in pyproject.toml.
 
 ---
 
