@@ -59,19 +59,19 @@ Create a virtual environment to contain the requested dependencies:
 
 - python
     ```shell
-    python -m venv venv
+    python -m venv .venv
     ```
 
     activate the virtual environment:
 
     - linux:
         ```shell
-        source venv/bin/activate
+        source .venv/bin/activate
         ```
     - windows:
         ```shell
-        venv\Scripts\activate       #command prompt
-        venv\Scripts\Activate.ps1   #powershell
+        .venv\Scripts\activate       #command prompt
+        .venv\Scripts\Activate.ps1   #powershell
         ```
 
     install the required dependencies:
@@ -88,4 +88,6 @@ Create a virtual environment to contain the requested dependencies:
 
 ---
 
-## Usage step
+## Usage  
+
+
