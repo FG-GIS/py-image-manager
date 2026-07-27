@@ -69,12 +69,9 @@ Create a virtual environment to contain the requested dependencies:
         source venv/bin/activate
         ```
     - windows:
-        ```cmd
-        venv\Scripts\activate
-        ```
-
-        ```powershell
-        venv\Scripts\Activate.ps1
+        ```shell
+        venv\Scripts\activate #command prompt
+        venv\Scripts\Activate.ps1 #powershell
         ```
 
 - uv
