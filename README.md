@@ -60,12 +60,22 @@ Create a virtual environment to contain the requested dependencies:
 - python
     ```shell
     python -m venv venv
-
     ```
+
     activate the virtual environment:
-    ```shell
 
-    ```
+    - linux:
+        ```shell
+        source venv/bin/activate
+        ```
+    - windows:
+        ```cmd
+        venv\Scripts\activate
+        ```
+
+        ```powershell
+        venv\Scripts\Activate.ps1
+        ```
 
 - uv
     ```shell
