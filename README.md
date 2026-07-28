@@ -90,4 +90,12 @@ Create a virtual environment to contain the requested dependencies:
 
 ## Usage  
 
+Disambiguation paragraph about different ways to use it.
+Why how and where.
+
+### CLI
+
+
+### package
+
 
