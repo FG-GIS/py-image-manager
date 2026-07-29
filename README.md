@@ -95,7 +95,11 @@ Why how and where.
 
 ### CLI
 
+- do I want to add a specific guided procedure to execute the main project?
+- basic usage running with args;
+- fully verbose --help like man?
 
 ### package
 
+better study of the packaging standards, how to correctly structure the project to be used as imported code.
 
