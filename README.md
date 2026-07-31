@@ -101,5 +101,6 @@ Why how and where.
 
 ### package
 
-better study of the packaging standards, how to correctly structure the project to be used as imported code.
+better study of the packaging standards, how to correctly structure the project to be used as imported code.  
+I'm not really convinced about the actual file layout I think I misinterpreted some AI search result.
 
