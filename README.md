@@ -104,3 +104,11 @@ Why how and where.
 better study of the packaging standards, how to correctly structure the project to be used as imported code.  
 I'm not really convinced about the actual file layout I think I misinterpreted some AI search result.
 
+---
+
+#### TODO
+
+[] cli.py; controls the execution of the project though cli
+[] core.py; controls main functions exexution -> image data comparison, operations list creation
+[] io.py; controls operations on input and output data -> get image data with pillow, create os symlinks, delete duplicates
+[] models.py; holds data structures definitions
